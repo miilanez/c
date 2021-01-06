@@ -1,5 +1,5 @@
 # estudosc
-Repositório de estudos da linguagem C#. :snake:
+Repositório de estudos da linguagem C#. :occean:
 
 Este repositório é onde se encontram os arquivos que utilizo em minhas práticas da linguagem C#.
 
